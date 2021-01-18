@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yang Liu"
-  avatar           : "Yang.jpg"
+  avatar           : "Yang.JPG"
   bio              : "I am a 2nd year PhD student at The ARTS lab, The University of Texas at Austin."
-  location         : #"Location"
+  location         : "Austin, TX"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "liu.yang@utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
