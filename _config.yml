@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yang Liu"
   avatar           : "Yang2.JPG"
-  bio              : "I am a 2nd year PhD student at The ARTS Lab."
+  bio              : "I am a 2nd year PhD student at The ARTS Lab, Walker Department of Mechanical Engineering, University of Texas at Austin."
   location         : "Austin, TX"
-  employer         : "Walker Department of Mechanical Engineering at the Cockrell School, University of Texas at Austin."
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "liu.yang@utexas.edu"
