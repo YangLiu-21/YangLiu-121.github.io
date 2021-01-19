@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-------
+---
 Medical/Surgical Robotics
 ------
 Development of high dexterity continuum manipulators, soft robots, and instruments for minimally invasive treatment of various medical/surgical applications.
