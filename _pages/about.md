@@ -7,14 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Medical/Surgical Robotics
----
-Development of high dexterity continuum manipulators, soft robots, and instruments for minimally invasive treatment of various medical/surgical applications.
+##### Medical/Surgical Robotics: Development of high dexterity continuum manipulators, soft robots, and instruments for minimally invasive treatment of various medical/surgical applications.
 
-Modeling of Soft Robots
-------
+##### Modeling of Soft Robots: Study of mathematical modeling approaches and algorithms that  can solve the unknown correlation between actuation inputs, and outputs of internal distributed forces, tendon-tension transmission loss and deformation behavior of continuum manipulators.
 
-Control and Medical Imaging
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+##### Control and Medical Imaging: Development of intelligent algorithms and medical imaging systems for human-in-the-loop control to further improve quality of the surgery and patient safety.
+
 
