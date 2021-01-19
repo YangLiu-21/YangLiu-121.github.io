@@ -1,15 +1,15 @@
 ---
 permalink: /
 title: "Research Interests"
-excerpt: "Research Interests"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /Research Interests/
-  - /Research Interests.html
+  - /about/
+  - /about.html
 ------
 Medical/Surgical Robotics
 ------
-
+Development of high dexterity continuum manipulators, soft robots, and instruments for minimally invasive treatment of various medical/surgical applications.
 
 Modeling of Soft Robots
 ------
